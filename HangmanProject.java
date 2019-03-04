@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class ClassWork
+public class Hangman Project
 {
 	public static void main(String[] args)
 	{
